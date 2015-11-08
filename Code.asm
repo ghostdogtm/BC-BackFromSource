@@ -1,4 +1,4 @@
-﻿;                               Griever's Stuff
+;                               Griever's Stuff
 ;                    -=#Battle City - Back From Source#=-
 
 
